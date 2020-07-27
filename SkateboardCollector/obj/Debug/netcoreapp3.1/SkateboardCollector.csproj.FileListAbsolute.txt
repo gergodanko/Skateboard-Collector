@@ -1,0 +1,11 @@
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\obj\Debug\netcoreapp3.1\SkateboardCollector.csprojAssemblyReference.cache
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\obj\Debug\netcoreapp3.1\SkateboardCollector.AssemblyInfoInputs.cache
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\obj\Debug\netcoreapp3.1\SkateboardCollector.AssemblyInfo.cs
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.exe
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.deps.json
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.runtimeconfig.json
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.runtimeconfig.dev.json
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.dll
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\bin\Debug\netcoreapp3.1\SkateboardCollector.pdb
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\obj\Debug\netcoreapp3.1\SkateboardCollector.dll
+C:\Users\Gergő\Desktop\Codecool\SkateboardCollector\SkateboardCollector\obj\Debug\netcoreapp3.1\SkateboardCollector.pdb
